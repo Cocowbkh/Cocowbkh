@@ -4,7 +4,7 @@
 **Cocowbkh/Cocowbkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Welcome to My Profile!
 
-Hi, I'm **Cocowbkh** (可可柏克)
+Hi, I'm **Cocowbkh** (可可)
 
 ## About Me
 
